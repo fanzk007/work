@@ -1,0 +1,250 @@
+.text-top-b{
+	height: 61px;
+	width: 100%;
+	min-width: 1920px;
+	background: #ececec;
+}
+.text-top-s{
+	width: 1366px;
+	height: 61px;
+	margin: 0px auto;
+}
+.text-top-s i{
+	display: block;
+	width: 51px;
+	height: 26px;
+	margin-left: 1128px;
+	background: url(../img/jituan/icon.png) no-repeat -448px 0px;
+}
+.j-text {
+	width: 1366px;
+	margin: 0px auto;
+}
+.j-text .text-1{
+	width: 1221px;
+	margin-left: 63px;
+}
+.j-text .text-1 img{
+	float: left;
+}
+.j-text .text-1 .t1{
+	float: left;
+}
+.j-text .text-1 .t1 .p1{
+	width: 437px;
+	height: 25px;
+	margin-left: 496px;
+	background: url(../img/jituan/icon.png) no-repeat 0px -1px;
+}
+.j-text .text-1 .t1 .p2{
+	width: 16px;
+	height: 14px;
+	margin-left: 94px;
+	margin-top: 62px;
+	background: url(../img/jituan/icon.png) no-repeat 0px -168px;
+}
+.j-text .text-1 .t1 .p3{
+	font-size: 20px;
+	font-family: 宋体;
+	color: #a0a0a1;
+	padding: 42px 0px 25px 0px;
+}
+.j-text .text-1 .t1 div{
+	width: 819px;
+	margin-left: 114px;
+}
+.j-text .text-1 .t1 div .p4,.j-text .text-1 .t1 div .p5{
+	font-size: 14px;
+	color: #9b9b9b;
+}
+.j-text .text-1 .t1 .p5{
+	padding: 17px 0px 38px 0px;
+}
+.j-text .text-1 .t1 .p6 a,.j-text .text-2 .t2 .p5 a{
+	display: block;
+	width: 75px;
+	height: 21px;
+	background: url(../img/jituan/icon.png) no-repeat 0px -360px;
+	color: #9b9b9b;
+	font-size: 12px;
+	text-align: center;
+}
+.j-text .text-1 .t1 .p7{
+	width: 16px;
+	height: 14px;
+	margin-left: 917px;
+	margin-top: 12px;
+	background: url(../img/jituan/icon.png) no-repeat 0px -182px;
+}
+.j-text .text-2{
+	margin-top: 72px;
+	background: #ececec;
+}
+.j-text .text-2 .t2{
+	width: 786px;
+	height: 365px;
+	float: left;
+	overflow: hidden;
+	
+}
+.j-text .text-2 .t2 .p1{
+	width: 437px;
+	height: 25px;
+	margin-top: 68px;
+	margin-left: 70px;
+	background: url(../img/jituan/icon.png) no-repeat 0px -38px;
+}
+.j-text .text-2 .t2 .p2{
+	width: 16px;
+	height: 14px;
+	margin-left: 70px;
+	margin-top: 35px;
+	background: url(../img/jituan/icon.png) no-repeat 0px -168px;
+}
+.j-text .text-2 .t2 .p3,.j-text .text-2 .t2 .p4{
+	width: 516px;
+	font-size: 14px;
+	padding-left: 93px;
+	color: #9b9b9b;
+}
+.j-text .text-2 .t2 .p3{
+	padding: 36px 0px 18px 93px;
+}
+.j-text .text-2 .t2 .p5 a{
+	margin-left: 90px;
+	margin-top: 35px;
+}
+.j-text .text-2 .t2 .p6{
+	width: 16px;
+	height: 14px;
+	margin-left: 673px;
+	margin-top: 12px;
+	background: url(../img/jituan/icon.png) no-repeat 0px -182px;
+}
+.j-text .text-2 img{
+	float: left;
+}
+.j-text .text-3{
+	margin-top: 124px;
+
+}
+.j-text .text-3 img{
+	float: left;
+	width: 625px;
+	height: 356px;
+	margin-left: 70px;
+}
+.j-text .text-3 .t3{
+	float: left;
+}
+.j-text .text-3 .t3 .p1{
+	width: 249px;
+	height: 24px;
+	margin-left: 344px;
+	margin-top: 16px;
+	background: url(../img/jituan/icon.png) no-repeat 0px -64px;
+}
+.j-text .text-3 .t3 div{
+	width: 720px;
+	height: 196px;
+	margin-top: 108px;
+	background: #ececec;
+	margin-left: -52px;
+	padding-top: 12px;
+}
+.j-text .text-3 .t3 div p{
+	padding-left: 136px;
+	line-height: 26px;
+}
+.j-text .text-3 .t3 div p .span1,.j-text .text-3 .t-3-3 p .span1{
+	font-size: 14px;
+	font-weight: bold;
+	color: #9b9b9b;
+}
+.j-text .text-3 .t3 div p .span2{
+	font-size: 14px;
+	margin-left: 26px;
+	color: #9b9b9b;
+}
+.j-text .text-3 .t-3-3{
+	float: left;
+	margin-left: 50px;
+
+}
+.span1,.j-text .text-3 .t-3-3 p {
+	padding-left: 16px;
+}
+.span1,.j-text .text-3 .t-3-3 p .span2{
+	font-size: 14px;
+	color: #9b9b9b;
+}
+.j-text .text-3 .t-3-3 .i1{
+	display: block;
+	width: 16px;
+	height: 14px;
+	margin-left: 20px;
+	margin-top: 30px;
+	background: url(../img/jituan/icon.png) no-repeat 0px -168px;
+}
+.j-text .text-3 .t-3-3 .i2{
+	display: block;
+	width: 16px;
+	height: 14px;
+	margin-left: 1220px;
+	background: url(../img/jituan/icon.png) no-repeat 0px -181px;
+}
+.j-text .text-4{
+	margin-top: 87px;
+}
+.j-text .text-4 img{
+	float: left;
+	margin-bottom: -170px;
+	margin-left: 84px;
+	position: relative;
+	z-index: 1;
+}
+.j-text .text-4 i{
+	float: left;
+	width: 311px;
+	margin-left: 510px;
+	height: 26px;
+	background: url(../img/jituan/icon.png) no-repeat 0px -98px;
+}
+.j-text .text-4 .t4{
+	float: left;
+	width: 1366px;
+	height: 200px;
+    padding-top: 83px;
+	background: url(../img/jituan/4.png);
+}
+.j-text .text-4 .t4 p{
+	color: #6a6969;
+	font-size: 14px;
+	height: 28px;
+	line-height: 28px;
+	padding-left: 533px;
+}
+.j-text .text-5 {
+	margin-top: 62px;
+}
+.j-text .text-5 i{
+	display: block;
+	width: 365px;
+	height: 28px;
+	margin-left: 85px;
+	background: url(../img/jituan/icon.png) no-repeat 0px -131px;
+}
+.j-text .text-5 img{
+	display: block;
+	margin: 75px auto 0px;
+}
+.bottom{
+	margin-top: 130px;
+	width: 100%;
+	height: 166px;
+	border-top: 1px solid #ccc;
+}
+.b-bootom{
+	width: 1366px;
+	margin: 0px auto;
+}

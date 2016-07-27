@@ -1,0 +1,49 @@
+.head{
+	width: 100%;
+	height: 202px;
+	min-width: 1366px;
+	background: url(../img/p-head.png) no-repeat;
+	overflow: hidden;
+	background-position: center center;
+}
+.icon{
+	width: 1366px;
+	height: 202px;
+	overflow: hidden;
+	margin: 0px auto;	
+}
+.icon i{
+	float: left;
+	width: 195px;
+	height: 48px;
+	margin: 52px 0px 0px 0px;
+	background: url(../img/icon1.png) no-repeat 0px -200px;
+}
+
+.icon ul{
+	float: left;
+	margin-left: 675px;
+	margin-top: -35px;
+}
+.icon ul li a{
+	font-size: 18px;
+	color: #231815;
+}
+.icon ul li{
+	float: left;
+	width: 106px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	border-bottom: 3px solid #67605f;
+}
+.icon ul li:hover{
+	border-color: #d0000e;
+	
+}
+.icon p{
+	margin-top: 163px;
+	color: #fff;
+	margin-left: 40px;
+	font-size: 14px;
+}

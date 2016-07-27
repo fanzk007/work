@@ -1,0 +1,82 @@
+.g-text{
+	width: 1366px;
+	margin:0px auto;
+	overflow: hidden;
+	padding-top: 24px;
+}
+.g-text img{
+	float: left;
+	width: 431px;
+	height: 265px;
+}
+.g-text .text-1{
+	margin-bottom:96px; 
+}
+.g-text .text-1-r{
+	float: left;
+	width: 935px;
+	height: 265px;
+	background:#f9f9f9;
+}
+.g-text .text-1-r .p1 {
+	width: 294px;
+	height: 24px;
+	margin: 24px 0px 0px 564px;
+	background: url(../img/guihua/icon.png) no-repeat 0px 0px ;
+}
+.g-text .text-1-r .p2{
+	width: 16px;
+	height: 14px;
+	background: url(../img/guihua/icon.png) no-repeat 0px -35px ;
+	margin: 16px 0px 0px 52px;
+}
+.g-text .text-1-r .p3,.g-text .text-1-r .p4{
+	padding: 0px 103px 26px 83px;
+	font-size: 14px;
+	color: #9b9b9b;
+}
+.g-text .text-1-r .p5{
+	width: 16px;
+	height: 14px;
+	background: url(../img/guihua/icon.png) no-repeat 0px -49px ;
+	margin-left: 843px;
+}
+.g-text #t2 .text-1-r .p1 {
+	width: 294px;
+	height: 24px;
+	margin: 24px 0px 0px 0px;
+	background: url(../img/guihua/icon.png) #fff no-repeat 0px -100px ;
+}
+.g-text #t2 .text-1-r{
+	background: #fff;
+}
+.g-text #t3 .text-1-r .p1 {
+	width: 294px;
+	height: 24px;
+	background: url(../img/guihua/icon.png) no-repeat 0px -143px ;
+}
+.g-text #t4 .text-1-r .p1 {
+	width: 294px;
+	height: 24px;
+	margin: 24px 0px 0px 0px;
+	background: url(../img/guihua/icon.png) no-repeat 0px -180px ;
+}
+.g-text #t4 .text-1-r{
+	background: #fff;
+}
+.bottom{
+	width: 100%;
+	height: 166px;
+	border-top: 1px solid #ccc;
+}
+.b-bootom{
+	width: 1366px;
+	margin: 0px auto;
+}
+
+.g-text #t2 .text-1-r ,.g-text #t4 .text-1-r{
+	width: 858px;
+}
+.g-text #t2 .text-1-r .p5 ,.g-text #t4 .text-1-r .p5{
+	margin-left: 790px;
+}

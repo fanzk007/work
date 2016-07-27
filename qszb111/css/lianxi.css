@@ -1,0 +1,24 @@
+.l-text{
+	width: 1366px;
+	margin: 0px auto 110px;
+	overflow: hidden;
+}
+.l-text i{
+	display: block;
+	width: 293px;
+	height: 25px;
+	margin: 49px 0px 62px 0px;
+	background: url(../img/lianxi/1.png);
+}
+.l-text div{
+	margin: 0px auto;
+}
+.bottom{
+	width: 100%;
+	height: 166px;
+	border-top: 1px solid #ccc;
+}
+.b-bootom{
+	width: 1366px;
+	margin: 0px auto;
+}

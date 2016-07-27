@@ -1,0 +1,38 @@
+.bottom{
+	width: 1366px;
+	height: 164px;
+	overflow: hidden;
+}
+.bottom i{
+	float: left;
+	width: 240px;
+	height: 52px;
+	margin: 44px 0px 0px 36px;
+	background: url(../img/icon1.png) no-repeat -416px -206px;
+
+}
+.bottom div {
+	width: 600px;
+	height: 67px;
+	margin-top: 30px;
+	margin-left: 600px;
+}
+.bottom div p{
+	float: right;
+	line-height: 25px;
+	font-size: 16px;
+	color: #9b9b9b;
+}
+.bottom div p span a{
+	font-size: 16px;
+	color: #9b9b9b;
+}
+.bottom  s{
+	float: right;
+	width: 67px;
+	height: 67px;
+	background: url(../img/img/er.png);
+	position: absolute;
+	top: 4px;
+	left: 620px;
+}

@@ -1,0 +1,170 @@
+.partner-text{
+	width: 1366px;
+	margin: 0px auto;
+}
+.partner-text .text1{
+	height: 307px;
+	margin: 34px 0px 90px 0px;
+}
+.partner-text .text1 img{
+	float: left;
+}
+.partner-text .text1 .t1{
+	width: 748px;
+	float: left;
+	height: 307px;
+	background: #eaeaea;
+}
+.partner-text .text1 .t1 .p1{
+	padding: 26px 26px 18px 142px;
+}
+.partner-text .text1 .t1 .p1 .span1{
+	font-size: 14px;
+	color: #747272;
+	padding-right: 8px;
+}
+.partner-text .text1 .t1 .p1 .span2{
+	font-size: 20px;
+	color: #000;
+	padding-left: 10px;
+	border-left: 3px solid #e60012;
+}
+.partner-text .text1 .t1 .p2{
+	height: 14px;
+	width: 16px;
+	margin-bottom: 26px;
+	background: url(../img/panter/imp.png) no-repeat 0px 0px;
+}
+.partner-text .text1 .t1 .p4{
+	height: 14px;
+	margin-left: 600px;
+	width: 16px;
+	margin-bottom: 26px;
+	background: url(../img/panter/imp.png) no-repeat -16px 0px;
+}
+.partner-text .text2 ul li{
+	width: 259px;
+	height: 362px;
+	float: left;
+	margin-left: 55px;
+	border: 1px solid #eaeaea;
+
+}
+.partner-text .text2 ul li p{
+	padding-left: 28px;
+	font-size: 12px;
+	color: #9b9b9b;
+}
+.partner-text .text2 ul li .p1{
+	font-weight: bold;
+	color: #505050;
+	margin: 22px 0px 22px 0px;
+}
+.partner-text .text2 ul li .p2{
+	margin-bottom: 10px;
+	padding-right: 35px;
+	line-height: 20px;
+}
+.partner-text .text2 ul li .p4 a{
+	display: block;
+	width: 75px;
+	text-align: center;
+	line-height: 21px;
+	height: 21px;
+	margin-top: 46px;
+	font-size: 12px;
+	color: #9b9b9b;
+	background: url(../img/panter/imp.png) no-repeat 0px -128px;
+}
+.partner-text .text2 ul li img{
+	width: 263px;
+	height: 141px;
+	margin: -1px 0px 0px -2px;
+	background-position: center center;
+	overflow: hidden;
+}
+.partner-text .text2 ul li:hover{
+	border-color: red;
+	border-bottom-width: 3px;
+}
+.partner-text .text2 .tel{
+	margin: 52px 0px 62px 55px;
+	font-size: 22px;
+	color: #505050;
+}
+.partner-text .text2 .tel span{
+	font-size: 20px;
+	margin-left: 10px;
+}
+.partner-text .text3 {
+	margin-bottom: 96px;
+}
+.partner-text .text3  p{
+	text-indent: 8px;
+	font-size: 26px;
+	font-weight: bold;
+	margin-bottom: 45px;
+	border-left: 3px red solid;
+}
+.partner-text .text3  p span{
+	font-size: 12px;
+	color: #747272;
+}
+.partner-text .text3  .text3-1 .span1{
+	float: left;
+	width: 23px;
+	margin-top: 123px;
+	height: 40px;
+	background: url(../img/panter/imp.png) no-repeat 0px -14px;
+}
+.partner-text .text3  .text3-1{
+	width: 1230px;
+	margin: 0px auto;
+}
+.partner-text .text3  .text3-1 .span2{
+	float: left;
+	width: 23px;
+	margin-top: 123px;
+	height: 40px;
+	background: url(../img/panter/imp.png) no-repeat 0px -54px;
+}
+.partner-text .text3  .text3-1 img{
+	float: left;
+}
+.partner-text .text3  .text3-1 .img1{
+	margin-left: 50px;
+	margin-right: 60px;
+}
+.partner-text .text3  .text3-1 .img2{
+	margin-right: 50px;
+}
+.partner-text .text3  .text3-1 .img3{
+	position: absolute;
+	top: 50px;
+	left: 350px;
+}
+.partner-text .text3  .text3-1 .text3-1-1{
+	width: 510px;
+	height: 45px;
+	background: #000;
+	position: absolute;
+	top: 300px;
+	left: 350px; 
+	opacity: 0.5;
+}
+.partner-text .text3  .text3-1 .text3-1-2{
+	color: #fff;
+	font-size: 14px;
+	position: absolute;
+	top: 310px;
+	left: 530px; 
+}
+.bottom{
+	width: 100%;
+	height: 166px;
+	border-top: 1px solid #ccc;
+}
+.b-bootom{
+	width: 1366px;
+	margin: 0px auto;
+}

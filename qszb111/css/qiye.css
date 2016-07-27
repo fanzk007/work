@@ -1,0 +1,126 @@
+.qiye-text{
+	width: 1366px;
+	margin: 0px auto;
+}
+.qiye-text .text-img{
+	width: 1366px;
+	height: 202px;
+	background: url(../img/qiye/1.png) no-repeat 0px -32px;}
+.news{
+	width: 1230px;
+	margin: -76px auto 95px;
+}
+.news-1 ul li{
+	width: 326px;
+	height: 128px;
+	color: #fff;
+	overflow: hidden;
+	background: #9b9a9a;
+	border-bottom: 1px solid #7c7c7c;
+}
+.news ul li div,.news-2 ul li div{
+	width:200px;
+	height: 70px;
+}
+.news ul li div .p1{
+	font-size: 24px;
+} 
+.news-2 ul li div .p1{
+	font-size: 22px;
+}
+.news-2 ul{
+	margin-bottom: 26px;
+}
+.news-2 ul li:hover{
+	background-color: #e60012;
+}
+.news-2 ul li{
+	float: left;
+	width: 297px;
+	color: #fff;
+	height: 128px;
+	background: #edd3a3;
+	border-right: 1px solid #e0c086;
+}
+.news-1 ul li div .p2,.news-1 ul li div .p2{
+	font-size: 16px;
+} 
+.news-2 ul li div .p2{
+	font-size: 14px;
+}
+.news ul .li1 div{
+	width: 85px;
+	height: 65px;
+}
+.news ul .li1 div p{
+	font-size: 20px;
+	text-align: center;
+} 
+.news-2,.news-1 {
+	float: left;
+}
+.news-2 .div1{
+	width: 847px;
+	height: 151px;
+	margin-left: 46px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #e1e1e1;
+}
+.news-2 .div1 .p1{
+	font-size: 18px;
+	padding: 20px 0px 22px 0px;
+	font-weight: bold;
+}
+.news-2 .div1 .p2{
+	font-size: 14px;
+	color: #9b9b9b;
+	margin-bottom: 26px;
+}
+.news-2 .div1 .p4 i{
+	float: left;
+	margin-top: 5px;
+	width: 20px;
+	height: 11px;
+	background: url(../img/qiye/icon.png);
+}
+.news-2 .div1 .p4 span{
+	color: #999999;
+	margin-left: 5px;
+}
+.news-2 .div1 .p4 span a{
+	color: #edd3a3;
+	font-size: 14px;
+	margin-left: 15px;
+}
+.news-2 .div1 .p4 s{
+	float: right;
+	width: 16px;
+	height: 18px;
+	background: url(../img/qiye/icon1.png);
+}
+.news-2 .div1-1{
+	border: none;
+}
+.news-2 .div2{
+	margin: 0px auto;
+	width: 203px;
+}
+
+.news-2 .div2 a{
+	display: block;
+	width: 203px;
+	height: 53px;
+	color: #e60012;
+	text-align: center;
+	line-height: 53px;
+	border: 1px solid #e60012;
+}
+.bottom{
+	width: 100%;
+	height: 166px;
+	border-top: 1px solid #ccc;
+}
+.b-bootom{
+	width: 1366px;
+	margin: 0px auto;
+}

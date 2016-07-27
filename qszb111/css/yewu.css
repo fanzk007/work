@@ -1,0 +1,100 @@
+.yewu-text{
+	width: 1366px;
+	margin: 34px auto 0px;
+}
+.yewu-text-1 .yewu-text-1-1{
+	float: left;
+	width: 613px;
+	height: 381px;
+}
+.yewu-text-1 .yewu-text-1-2{
+	float: left;
+	width: 795px;
+	height: 200px;
+	background: #fff;
+	margin-left: -96px;
+	margin-top: 125px;
+	padding: 30px 0px 30px 50px;
+}
+.yewu-text-1 .yewu-text-1-2 .p1,.yewu-text-2 .div2 .p1{
+	font-size: 14px;
+	line-height: 20px;
+	color: #7d7d7d;
+}
+.yewu-text-1 .yewu-text-1-2 .p1 span,.yewu-text-2 .div2 .p1 span{
+	font-size: 30px;
+}
+.yewu-text-1 .yewu-text-1-2 .p2,.yewu-text-2 .div2 .p2{
+	font-size: 12px;
+	color: #7d7d7d;
+	margin-top: 24px;
+}
+.yewu-text-1 .yewu-text-1-2 .p3 a,.yewu-text-2 .div2 .p3 a{
+	display: block;
+	width: 75px;
+	height: 21px;
+	color: #9b9b9b;
+	font-size: 12px;
+	text-align: center;
+	line-height: 21px;
+	margin-top: 42px;
+	background: url(../img/yewu/icon.png) no-repeat 0px -279px;
+}
+.yewu-text-1 .yewu-text-1-3{
+	float: right;
+}
+.yewu-text-1 .yewu-text-1-3 i{
+	display: block;
+	width: 265px;
+	height: 38px;
+	margin-top: -388px;
+	background: url(../img/yewu/icon.png)  no-repeat 0px 0px; 
+}
+.yewu-text-1 .yewu-text-1-3 p{
+	font-size: 12px;
+	color: #636363;
+	margin-left: -30px;
+}
+.yewu-text-2 .div1 i{
+	display: block;
+	width: 265px;
+	margin-bottom: 100px;
+	height: 38px;
+	background: url(../img/yewu/icon.png)  no-repeat 0px -61px; 
+}
+.yewu-text-2{
+	margin-top: 80px;
+	margin-bottom: 110px;
+}
+.yewu-text-2 .div2{
+	width: 830px;
+	background: #fff;
+	padding-top:20px;
+}
+.yewu-text-2 img{
+	width: 613px;
+	height: 381px;
+	float: right;
+	position: relative;
+	z-index: -1;
+	margin-top: -386px;
+}
+#i3{
+	background: url(../img/yewu/icon.png)  no-repeat 0px -115px; 
+}
+#i4{
+	background: url(../img/yewu/icon.png)  no-repeat 0px -167px; 
+}
+#i5{
+	background: url(../img/yewu/icon.png)  no-repeat 0px -233px; 
+}
+.bottom{
+	width: 100%;
+	height: 166px;
+	margin-top: 95px;
+	border-top: 1px solid #ccc;
+}
+.b-bootom{
+	width: 1366px;
+	margin: 0px auto;
+}
